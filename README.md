@@ -4,7 +4,7 @@ Opencv 3.0
 
 Used libraries :  
 1.mesa3D (opengl implementation)  
-2.glut (for windows)  
+2.glut (for the window)  
 3.glm (for more effective basic vector operations)  
 4.glew (for extension support control)
 
