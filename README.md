@@ -3,8 +3,10 @@
 Opencv 3.0  
 
 Used libraries :  
-1.glut  
-2.glm  
+1.mesa3D (opengl implementation)  
+2.glut  
+3.glm  
+4.glew
 
 Used languages :  
 1.C++  
@@ -12,6 +14,8 @@ Used languages :
 
 Ray tracing and phong model implemented.  
 Elastic collision and gravity force implemented.  
+Has control on camera position and direction via keyboard.   
+The most complex operation which used in is cross product =)  
 
 ![alt text](resource/example1.gif)
 ![alt text](resource/example2.gif)
