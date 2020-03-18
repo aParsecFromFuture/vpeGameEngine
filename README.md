@@ -1,6 +1,6 @@
 # vpeGameEngine(Visual Project for Educational purposes)
 
-Opencv 3.0  
+OpenGL 3.0  
 
 Used libraries :  
 1.mesa3D (opengl implementation)  
